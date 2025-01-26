@@ -1,7 +1,7 @@
 # Kubernetes project: Deploy application on EKS
 
 ## About the Project
-It's my personal project to showcase skills in robust and highly stable K8s cluster service. The project focuses on how to deploy a real-time application on AWS-managed control plane EKS with a public IP, which will be accessed through a Application load balancer.
+It's my personal project to showcase skills in robust and highly stable K8s cluster service. The project focuses on how to deploy a real-time application on AWS-managed EKS service, which will be accessed through a Application load balancer.
 
 ### MyLearnings:
 This project teaches me how to deploy an application from start to finish on AWS EKS using Fargate. It also covers the configuration of deployments, services, and pods. Additionally, I learn how to use Helm charts for managing Kubernetes applications.
