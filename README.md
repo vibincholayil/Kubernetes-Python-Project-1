@@ -1,6 +1,6 @@
 # Kubernetes End to End project on EKS
 
-##About the Project
+## About the Project
 My personal project is designed to showcase my skills in robust and highly stable K8s cluster service. The project focuses on how to deploy a real-time application on AWS-managed control plane EKS with a public IP, which will be accessed through a Application load balancer.
 
 Creating 
