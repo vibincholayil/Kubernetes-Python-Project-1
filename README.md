@@ -62,6 +62,10 @@ kubectl get deployment -n kube-system aws-load-balancer-controller
 ### Check the ALB Addres
 kubectl get ingress -n game-2048
 ![image](https://github.com/user-attachments/assets/d6cc37f1-3b1d-480a-b950-cbabbfac176f)
+![image](https://github.com/user-attachments/assets/dcc1beb2-500c-461e-8037-9f41c04caf21)
+
+### The Application is running
+![image](https://github.com/user-attachments/assets/d0b79597-5267-46ef-9db4-a4a02d8b43a3)
 
 
 
