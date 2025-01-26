@@ -6,8 +6,7 @@ It's my personal project to showcase skills in robust and highly stable K8s clus
 https://app.eraser.io/workspace/LwLmoLYNMPLvaQxNPfJC?origin=share&elements=LTa8Ornf-bD6aik7rN1lTA
 
 ### MyLearnings:
-How to deploy in eks
-How to allow public user
+This project teaches me how to deploy an application from start to finish on AWS EKS using Fargate. The application will be easily accessible to the public and have 5 highly available pods. It covers the configuration of deployments, services, and pods. Additionally, I learn how to use Helm charts for managing Kubernetes applications.
 
 ## Project implimentation steps
 Prerequisites: kubectl,AWS CLI, eksctl
