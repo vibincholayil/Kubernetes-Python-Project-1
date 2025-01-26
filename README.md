@@ -11,13 +11,11 @@ Learning:
 How to deploy in eks
 How to allow public user
 
-Install EKS with Fargate
+### Install EKS with Fargate
 eksctl create cluster --name demo-cluster --region us-east-1 --fargate
-
-update
+### update
 aws eks update-kubeconfig --name demo-cluster-1 --region eu-west-2
-
-Creating fargate profile 
+### Creating a new fargate profile 
 eksctl create fargateprofile \
 --cluster demo-cluster-1 \
 --region eu-west-2 \
