@@ -30,7 +30,7 @@
         "elasticloadbalancing:ModifyLoadBalancerAttributes"
     ],
     "Resource": "*"
-}
+},
         {
             "Effect": "Allow",
             "Action": [
