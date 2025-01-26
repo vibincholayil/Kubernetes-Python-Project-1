@@ -3,13 +3,14 @@
 ## About the Project
 It's my personal project to showcase skills in robust and highly stable K8s cluster service. The project focuses on how to deploy a real-time application on AWS-managed control plane EKS with a public IP, which will be accessed through a Application load balancer.
 
-Creating 
-Prerequisites: kubectl,AWS CLI, eksctl
-Used service : AWS Fargate (worker node)
+https://app.eraser.io/workspace/LwLmoLYNMPLvaQxNPfJC?origin=share&elements=LTa8Ornf-bD6aik7rN1lTA
 
-Learning:
+### MyLearnings:
 How to deploy in eks
 How to allow public user
+
+## Project implimentation steps
+Prerequisites: kubectl,AWS CLI, eksctl
 
 ### Install EKS with Fargate
 eksctl create cluster --name demo-cluster-1 --region eu-west-2 --fargate
