@@ -13,6 +13,24 @@
                 }
             }
         },
+          
+{
+    "Effect": "Allow",
+    "Action": [
+        "elasticloadbalancing:DescribeListenerAttributes",
+        "elasticloadbalancing:DescribeListeners",
+        "elasticloadbalancing:DescribeLoadBalancers",
+        "elasticloadbalancing:DescribeRules",
+        "elasticloadbalancing:DescribeTags",
+        "elasticloadbalancing:DescribeTargetGroups",
+        "elasticloadbalancing:DescribeTargetHealth",
+        "elasticloadbalancing:ModifyListener",
+        "elasticloadbalancing:ModifyRule",
+        "elasticloadbalancing:ModifyTargetGroupAttributes",
+        "elasticloadbalancing:ModifyLoadBalancerAttributes"
+    ],
+    "Resource": "*"
+}
         {
             "Effect": "Allow",
             "Action": [
